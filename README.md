@@ -1,2 +1,3 @@
-# mirepro
-repro del laboratorio 1
+# mirepro (chiste de motos)
+1º clonamos este repositorio con git clone (SSH)
+
