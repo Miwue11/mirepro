@@ -51,8 +51,8 @@ body {
 }
 
 .menu .item {
-    width: 24px;
-    height: 24px;
+    width: var(--space-3);
+    height: var(--space-2);
     margin: 0 var(--space-1);
 }
 
@@ -66,7 +66,11 @@ body {
 .menu a:hover {
     color: #888;
 }
-
+.footer a:hover{
+    color: #888;
+    transform: scale(1.1);
+    transition: color 0.1s ease;
+}
 h1 {
     font-size: var(--title-size);
     margin-bottom: var(--space-3);
