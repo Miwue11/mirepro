@@ -192,4 +192,7 @@ a{
         justify-content: center;
         text-align: center;
     }
+    .menu a:not(:first-child) {
+        display: none;
+    }
 }
