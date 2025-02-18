@@ -175,9 +175,6 @@ a{
         padding: var(--space-2);
         border-bottom: 1px solid #ffffff;
     }
-    .footer > div:last-child {
-        border-bottom: none;
-    }
     .tarjeta {
         padding: var(--space-1);
     }
