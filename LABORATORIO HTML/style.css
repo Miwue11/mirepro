@@ -185,7 +185,6 @@ a{
     .header{
         display: flex;
         flex-direction: column;
-        flex-flow: row;
         justify-content: center;
         text-align: center;
     }
